@@ -106,8 +106,6 @@ dependencies[] = scheduler
 dependencies[] = site_map
 dependencies[] = strongarm
 dependencies[] = tabtamer
-dependencies[] = taxonomy_entity_index
-dependencies[] = taxonomy_path
 dependencies[] = tipsy
 dependencies[] = token
 dependencies[] = token_tweaks
@@ -163,3 +161,5 @@ dependencies[] = workbench_moderation
 
 ;bug fix
 dependencies[] = taxonomy
+dependencies[] = taxonomy_entity_index
+dependencies[] = taxonomy_path

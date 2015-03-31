@@ -45,7 +45,7 @@ dependencies[] = rdf
 dependencies[] = search
 dependencies[] = statistics
 dependencies[] = system
-dependencies[] = taxonomy
+
 dependencies[] = text
 dependencies[] = trigger
 dependencies[] = update
@@ -161,3 +161,5 @@ dependencies[] = votingapi
 dependencies[] = workbench
 dependencies[] = workbench_moderation
 
+;bug fix
+dependencies[] = taxonomy

@@ -163,12 +163,13 @@ dependencies[] = features
 dependencies[] = taxonomy
 dependencies[] = taxonomy_entity_index
 dependencies[] = taxonomy_path
-
+;Libraries
+dependencies[] = Libraries
 ;nycc
 dependencies[] = nycc
-dependencies[] = lync intergration
 dependencies[] = apachesolr_search_blocks
 dependencies[] = nycc_content_types
-dependencies[] = nycc_socialnycc_pages
+dependencies[] = nycc_social
+dependencies[] = nycc_pages
 dependencies[] = nycc_forms
 dependencies[] = nycc_social_icons

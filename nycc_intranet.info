@@ -164,7 +164,7 @@ dependencies[] = taxonomy
 dependencies[] = taxonomy_entity_index
 dependencies[] = taxonomy_path
 ;Libraries
-dependencies[] = Libraries
+dependencies[] = libraries
 ;nycc
 dependencies[] = nycc
 dependencies[] = apachesolr_search_blocks

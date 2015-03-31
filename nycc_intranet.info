@@ -58,8 +58,7 @@ dependencies[] = date_popup
 dependencies[] = date_views
 ; Development
 dependencies[] = profiler_builder
-; Event Calendar
-dependencies[] = event_calendar
+
 ; Fields
 dependencies[] = entityreference
 dependencies[] = inline_entity_form
@@ -158,8 +157,18 @@ dependencies[] = votingapi
 ; Workbench
 dependencies[] = workbench
 dependencies[] = workbench_moderation
-
+;features
+dependencies[] = features
 ;bug fix
 dependencies[] = taxonomy
 dependencies[] = taxonomy_entity_index
 dependencies[] = taxonomy_path
+
+;nycc
+dependencies[] = nycc
+dependencies[] = lync intergration
+dependencies[] = apachesolr_search_blocks
+dependencies[] = nycc_content_types
+dependencies[] = nycc_socialnycc_pages
+dependencies[] = nycc_forms
+dependencies[] = nycc_social_icons
